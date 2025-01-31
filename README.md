@@ -1,1 +1,1 @@
-# hidden-gems-in-ir
+# Hidden Gems in Information Retrieval (IR)
